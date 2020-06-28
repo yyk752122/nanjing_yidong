@@ -1,0 +1,7 @@
+test_send_massage:
+  test_send_massage_1:
+    phone: "17823861502"
+    content: "how are you"
+#  test_send_massage_2:
+#    phone: "17800000000"
+#    content: "good night"
